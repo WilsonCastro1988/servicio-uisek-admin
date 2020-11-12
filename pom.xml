@@ -75,11 +75,7 @@
 			<artifactId>postgresql</artifactId>
 			<scope>runtime</scope>
 		</dependency>
-		<dependency>
-			<groupId>com.lanch.servicio.admin.commons</groupId>
-			<artifactId>servicio-commons-lanch-admin</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		
 	</dependencies>
 
 	<dependencyManagement>
